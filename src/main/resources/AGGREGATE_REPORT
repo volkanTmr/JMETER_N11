@@ -1,0 +1,15 @@
+
+
+
+
+
+N11 AGGREGATE REPORT
+
+LABEL         SAMPLE  AVERAGE  MEDIAN      90% LINE      95% LINE        99% LINE    MIN       MAX
+JMeter1-290	    15	  1211	      1130	     1422	        1523	      2016	     930	   2016
+JMeter1-225	    15	  42	       42	      51	    	61            64	     31	       64
+JMeter1-262	    15	  44	       41	      61	        65	          70	     34	       70
+JMeter1-319	    15	  1089	      1060	      1272	        1283	      1402     	 839	   1402
+JMeter1-353	    15	  923	       869	      1148	        1219	      1326   	 710	   1326
+JMeter1-381	    15	  40	       33	       57	         58	          99	     28	       99
+TOTAL	        90	  558	       99	       1240	        1306	      1523   	 28	       2016

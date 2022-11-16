@@ -1,0 +1,27 @@
+
+
+
+RESPOND HEADERS
+
+HTTP/1.1 200 OK
+Date: Wed, 16 Nov 2022 06:41:49 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+search-mode: true
+Expires: -1
+Content-Language: tr, TR
+Age: 0
+N11-Status: 1
+Set-Cookie: abgroup=old; Expires=Wed, 30 Nov 2022 06:41:49 GMT; Domain=.n11.com; Path=/; Secure; HttpOnly
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Accept-Ranges: bytes
+Content-Security-Policy: frame-ancestors *.n11.com;
+Vary: Accept-Encoding, User-Agent
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1;mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip
+
